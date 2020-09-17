@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - InteractTarget
+  - InteractWindow
+  - RightTarget
+  - InteractManager
+  - Idle
+  - DontDestroy
+  - key
+  - KeyHold
+  - KeyHold1
+  - FarTarget
+  - FarTarget1
+  - DropPlace
+  - DropPlace1
+  - keyGreen
+  - Player1
+  - GreenHouseKey
+  - BrownHouseKey
+  - GreyHouseKey
+  - SceneObject
+  - SceneChecker
+  - KeyBrown
+  - KeyGrey
+  - StreetHouseKeyTarget
+  - CrowBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - BackGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 70828337
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1800950349
+    locked: 0
